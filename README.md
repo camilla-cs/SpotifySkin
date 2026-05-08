@@ -1,0 +1,2 @@
+# SpotifySkin
+Spotify desktop widget
