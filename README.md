@@ -12,7 +12,6 @@ Github page : [Github-user-activity](https://github.com/camilla-cs/SpotifySkin)
 
 ## Wireframes and Final Product 
 
-Wireframes made using Figma: 
+Wireframe made using Figma: 
 
-![Figma-wireframe](./@Resources/Images/figma.png)
 ![Final-product](./@Resources/Images/image%201.png)
