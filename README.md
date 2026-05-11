@@ -1,7 +1,7 @@
 # SpotifySkin
 
 Spotify desktop widget for Windows OS built using Rainmeter, HTML and JS. 
-Download here: 
+Download through the relaeses page : [https://github.com/camilla-cs/SpotifySkin/releases](Realase)
 
 
 Github page : [Github-user-activity](https://github.com/camilla-cs/SpotifySkin)
